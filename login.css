@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Areeba;
+    src: url(Font\ family/GreatVibes-Regular.ttf);
+}
+
+fieldset{
+   background-color: rgb(155, 199, 249);
+   text-align: center;
+   width: 20%;
+   height: 20%;
+   border-radius: 8px;
+   border-color: rgb(8, 12, 149);
+   border-width: 5px 5px 5px 5px;
+   border-style: double;
+   margin-top: 10%;
+  margin-bottom: 1%;
+  margin-left: 40%;
+  margin-right: 40%;
+  color: rgb(8, 12, 149);
+  font-family: Areeba;
+  font-size: 40px;
+  font-weight: bold;
+}
+form{
+   color: white;
+   text-align: start;
+   font-size: 30px;
+   font-weight: lighter;
+}
+
+

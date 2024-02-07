@@ -1,0 +1,101 @@
+*{
+    background-color: rgb(230, 245, 245);
+}
+
+h2{
+    display: inline;
+    color: rgb(2, 9, 106);
+    text-shadow: 1px 2px 2px black;
+}
+h2:hover{
+   text-shadow: 1px 2px 2px black;
+    color:  rgb(205, 96, 7);
+}
+
+
+div.top{
+   display: inline; 
+}
+
+div >button.search:hover{
+    transform: scale(1.1);
+}
+div >button.search{
+background-color: white;
+border-radius: 4px;
+}
+
+
+div>button.Log:hover{
+    background-color: rgb(205, 96, 7);
+    color: rgb(255, 255, 255);
+border-color: white;
+box-shadow: 4px 5px 9px black;
+transform: scale(1.1);
+}
+a.a:hover{
+    background-color: rgb(205, 96, 7);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+a.a{
+background-color: rgb(2, 9, 106);
+color: rgb(247, 250, 252);
+text-decoration: none;
+
+}
+.top>button.Log{
+    background-color: rgb(2, 9, 106);
+  border-color: rgb(247, 250, 252) ;
+  box-shadow: 0px 1px 4px rgb(52, 50, 50);
+}
+
+
+
+div>button.Sign:hover{
+    background-color: rgb(205, 96, 7);
+    color: rgb(255, 255, 255);
+border-color: white;
+box-shadow: 4px 5px 9px black;
+transform: scale(1.1);
+}
+a.b:hover{
+    background-color: rgb(205, 96, 7);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.b{
+background-color: rgb(2, 9, 106);
+color: rgb(247, 250, 252);
+text-decoration: none;
+}
+div>button.Sign{
+    
+  background-color: rgb(2, 9, 106);
+  border-color: rgb(247, 250, 252) ;
+  box-shadow: 1px 2px 9px rgb(121, 117, 117);
+}
+
+
+
+div.body1{
+    margin-bottom: 7px;
+}
+h1{
+    display: inline;
+    color: rgb(2, 9, 106);
+    text-shadow: 1px 2px 2px black;
+}
+p{
+    text-align: center;
+    color: rgb(97, 95, 95);
+}
+.image1{
+    width: 100%;
+    height: 80px;
+}
+.image2{
+    width: 100%;
+    height: 400px;
+}
